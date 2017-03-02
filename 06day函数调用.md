@@ -1,5 +1,5 @@
 
-[TOC]
+**[TOC]**
 
 ## 函数调用的几种方法
 
@@ -323,3 +323,11 @@ function Student(name, age) {
 var xiaohong = new Student('小红', 16);
 console.log(xiaohong);
 ```
+
+
+## 总结
+1. 面向对象
+2. 继承方式
+3. 原型链
+4. 预解析
+5. 闭包
